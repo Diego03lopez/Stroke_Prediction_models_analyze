@@ -309,3 +309,6 @@ plt.show()
 ```
 # Results
 The results can be seen in the code files located in the project repository.
+
+# Project summary
+Here you can find a summary of the previous project taking into account what has been shown above: [Summary](https://www.youtube.com/watch?v=zy-k3FEr7CE&t=7s "Summary").
